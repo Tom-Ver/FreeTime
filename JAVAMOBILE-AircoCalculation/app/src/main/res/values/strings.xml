@@ -1,0 +1,15 @@
+<resources>
+    <string name="company_name">Vanden Borre</string>
+    <string name="app_name">Airco calculator</string>
+
+    <string name="hint_length">Length in cm</string>
+    <string name="hint_width">Width in cm</string>
+    <string name="hint_height">Height in cm</string>
+
+    <string name="btn_calculate">Calculate</string>
+
+    <string name="radio_low">Goed geïsoleerde ruimte</string>
+    <string name="radio_med">Gemiddeld geïsoleerde ruimte</string>
+    <string name="radio_high">Slecht geïsoleerde ruimte</string>
+
+</resources>
