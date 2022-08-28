@@ -1,3 +1,8 @@
 {
-  "name": "taming-thymeleaf-app"
+  "name": "taming-thymeleaf-app",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
 }
